@@ -1,2 +1,2 @@
 # PROJECT-1
-Creating an QR code based attendance system
+Creating a QR code based attendance system
